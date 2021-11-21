@@ -48,7 +48,7 @@ int main(int argc ,int sockfd, char *argv[])
 	}
 	puts("\n[*]Socket connect to server...");
 	puts("[*]Connected!");
-	puts("\n==Welcome to ARPA Host Name Server Protocol Client==\n");
+	puts("\n==Welcome to ARPA Host Name Server Protocol==\n");
  
 
     //Send some request 
